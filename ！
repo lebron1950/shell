@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#
+# filepath:shell/03.liaomei.sh
+# email :lebron1950@163.com
+# author: lebron1950
+# date: 2019/10/14
+# usage: practice varible
+
+read -p 'please input your name: ' name
+read -p 'please input your age: ' age
+echo "你的名字为: ${name}, 你的年龄为: ${age}"
